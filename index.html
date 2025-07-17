@@ -430,10 +430,6 @@
             });
             var popupContent = '<table>\
                     <tr>\
-                        <th scope="row">OBJECTID</th>\
-                        <td class="visible-with-data" id="OBJECTID">' + (feature.properties['OBJECTID'] !== null ? autolinker.link(String(feature.properties['OBJECTID']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
-                    </tr>\
-                    <tr>\
                         <th scope="row">Group SPEV</th>\
                         <td class="visible-with-data" id="SECTOR_NAME">' + (feature.properties['SECTOR_NAME'] !== null ? autolinker.link(String(feature.properties['SECTOR_NAME']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
