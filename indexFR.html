@@ -2,6 +2,8 @@
 <html lang="en">
 
 <head>
+    <title>SPEV Schaerbeek</title>
+    <link rel="shortcut icon" href="css/images/ih2.ico" type="image/x-icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
@@ -17,6 +19,7 @@
         html,
         body,
         #map {
+			flex-grow: 1;
             width: 100%;
             height: 100%;
             padding: 0;
@@ -27,8 +30,68 @@
 </head>
 
 <body>
-    <div id="map">
+    <div id="Region00">
+       <div id="Region04">
+           <div id="map"></div>
+       </div>
     </div>
+	
+        <div id="Region01">
+            <div class="container">
+				<div class="sidebar">
+				  <h1>
+					<div class="logo"></div>
+					<span>Actions de propreté publique du service communal de Schaerbeek</span>
+				  </h1>
+
+				  <div class="data-infos">
+					<p>
+					  Cette cartographie reprend les actions en termes de propreté publique
+					  réalisées par le service communal Schaerbeek Propreté et Espaces
+					  verts. Elle présente pour chaque rue les actions de traitement
+					  (nettoiement, enlèvement des dépôts clandestins, balayage), de
+					  sensibilisation et de répression.
+					</p>
+					<p>
+					  Pour des raisons de confidentialité, les informations sont données par
+					  rue, sans précision du numéro.
+					</p>
+					<p>
+					  Pour plus d’information n’hésitez pas à contacter notre centrale
+					  d’appel au 0800 939 88.
+					</p>
+					<p></p>
+					<p>
+					  1. Intervention : Action de propreté réalisée par nos équipes : ramassage d’un encombrant, ramassage d’un sac mal sorti, nettoyage de la voie publique, 
+					  vidange d’un avaloir, enquête de la cellule verbalisation. Ces actions sont réalisées en plus des missions habituelles de balayage, et d’entretien de l’espace public. 
+					</p>
+					<p>
+					  2. Moyenne de balayage : Moyenne mensuelle du nombre de balayage de la rue.
+					</p>
+					<p>
+					  3. Taxe : Action de l’équipe de recherche et verbalisation qui a donné lieu à un PV (le déposant a pu être identifié). Environ 10% des actions de la cellule répression amènent à une identification.
+					</p>
+					<p>
+					  4. Médiation : action des médiateurs de propreté pour sensibiliser ou informer les citoyens sur une problématique de propreté publique.
+					</p>
+					<p>
+					<div class="logo3"></div>
+					</p>
+				  </div>
+				</div>
+				
+
+				<!--
+				<div class="credits">
+				  <p>
+					Commune de Schaerbeek©<a href="https://www.1030.be/">Commune de Schaerbeek</a>
+				  </p>
+				</div>
+				-->
+				
+            </div>
+        </div>
+	
     <script src="js/qgis2web_expressions.js"></script>
     <script src="js/leaflet.js"></script>
     <script src="js/L.Control.Layers.Tree.min.js"></script>
@@ -137,10 +200,11 @@
         abstract.show = function () {
             this._div.classList.remove("abstract");
             this._div.classList.add("abstractUncollapsed");
+
             this._div.innerHTML = 'Actions de propreté publique du service communal de Schaerbeek.<br /><br />Actions en termes de propreté publique réalisées par le service communal Schaerbeek Propreté et Espaces verts.<br />Elle présente pour chaque rue les actions de traitement (nettoiement, enlèvement des dépôts clandestins, balayage), de sensibilisation et de répression.<br /><br />Pour des raisons de confidentialité, les informations sont données par rue, sans précision du numéro.<br />Pour plus d’information n’hésitez pas à contacter notre centrale d’appel au 0800 939 88.<br /><br /> 1. Inervention : Action de propreté réalisée par nos équipes : ramassage d’un encombrant, ramassage d’un sac mal sorti, nettoyage de la voie publique, <br />vidange d’un avaloir, enquête de la cellule verbalisation. Ces actions sont réalisées en plus des missions habituelles de balayage, et d’entretien de l’espace public. <br /><br /> 2. Moyenne de balayage : Moyenne mensuelle du nombre de balayage de la rue.<br /><br /> 3. Taxe : Action de l’équipe de recherche et verbalisation qui a donné lieu à un PV (le déposant a pu être identifié). Environ 10% des actions de la cellule répression amènent à une identification.<br /><br /> 4. Médiation : action des médiateurs de propreté pour sensibiliser ou informer les citoyens sur une problématique de propreté publique. ';
             // this._div.innerHTML = 'Actions de propreté publique du service communal de Schaerbeek.<br /><br />Actions en termes de propreté publique réalisées par le service communal Schaerbeek Propreté et Espaces verts. <br />Elle présente pour chaque rue les actions de traitement (nettoiement, enlèvement des dépôts clandestins, balayage), de sensibilisation et de répression.<br /><br />Pour des raisons de confidentialité, les informations sont données par rue, sans précision du numéro.<br />Pour plus d’information n’hésitez pas à contacter notre centrale d’appel au 0800 939 88.<br /><br /> 1. Intervention : Action de propreté réalisée par nos équipes : ramassage d’un encombrant, ramassage d’un sac mal sorti, nettoyage de la voie publique, vidange d’un avaloir, enquête de la cellule verbalisation. Ces actions sont réalisées en plus des missions habituelles de balayage, et d’entretien de l’espace public. <br /><br /> 2. Moyenne de balayage : Moyenne mensuelle du nombre de balayage de la rue.<br /><br /> 3. Taxe : Action de l’équipe de recherche et verbalisation qui a donné lieu à un PV (le déposant a pu être identifié). Environ 10% des actions de la cellule répression amènent à une identification.<br /><br /> 4. Médiation : action des médiateurs de propreté pour sensibiliser ou informer les citoyens sur une problématique de propreté publique. ';
         };
-        abstract.addTo(map);
+        //abstract.addTo(map);
         var zoomControl = L.control.zoom({
             position: 'topleft'
         }).addTo(map);
@@ -831,7 +895,7 @@
             },
         });
         bounds_group.addLayer(layer_DecheterieMobile_8);
-        map.addLayer(layer_DecheterieMobile_8);
+        //map.addLayer(layer_DecheterieMobile_8);
 
         function pop_Taxe_9(feature, layer) {
             layer.on({
@@ -958,7 +1022,7 @@
             },
         });
         bounds_group.addLayer(layer_Taxe_9);
-        map.addLayer(layer_Taxe_9);
+        //map.addLayer(layer_Taxe_9);
 
         function pop_MoyenneBalayage_10(feature, layer) {
             layer.on({
@@ -1101,7 +1165,7 @@
             },
         });
         bounds_group.addLayer(layer_MoyenneBalayage_10);
-        map.addLayer(layer_MoyenneBalayage_10);
+        //map.addLayer(layer_MoyenneBalayage_10);
 
         function pop_Mediation_11(feature, layer) {
             layer.on({
@@ -1180,7 +1244,7 @@
             },
         });
         bounds_group.addLayer(layer_Mediation_11);
-        map.addLayer(layer_Mediation_11);
+        //map.addLayer(layer_Mediation_11);
 
         function pop_Intervention_12(feature, layer) {
             layer.on({
@@ -1390,7 +1454,7 @@
             style: style_Zonesdintervention_13_0,
         });
         bounds_group.addLayer(layer_Zonesdintervention_13);
-        map.addLayer(layer_Zonesdintervention_13);
+        //map.addLayer(layer_Zonesdintervention_13);
 
         function pop_Pointsdintervention_14(feature, layer) {
             layer.on({
@@ -1489,7 +1553,11 @@
         });
         bounds_group.addLayer(layer_Pointsdintervention_14);
         map.addLayer(layer_Pointsdintervention_14);
-
+		
+		
+		
+		
+		
         var overlaysTree = [
             {
                 label: '<b>Clean1030</b>', collapsed: true, selectAllCheckbox: true, children: [
@@ -1497,27 +1565,29 @@
                     { label: '<img src="legend/Zonesdintervention_13.png" /> Zones d\'intervention', layer: layer_Zonesdintervention_13 },]
             },
             {
-                label: '<b>InterventionsSPEV</b>', selectAllCheckbox: true, children: [
-                    { label: '<img src="legend/Intervention.png" /> Intervention', layer: layer_Intervention_12 },
-                    { label: '<img src="legend/MoyenneBalayage.png" /> Moyenne Balayage', layer: layer_MoyenneBalayage_10 },
-                    { label: '<img src="legend/Mediation.png" /> Mediation', layer: layer_Mediation_11 },
-                    { label: '<img src="legend/Taxe.png" /> Taxes', layer: layer_Taxe_9 },
-                    { label: '<img src="legend/DecheterieMobile.png" /> Decheterie Mobile', layer: layer_DecheterieMobile_8 },]
+                label: '<b>InterventionsSPEV</b>',  children: [
+                    { label: '<img src="legend/Intervention.png" /> Intervention', layer: layer_Intervention_12, radioGroup: 'bc' },
+                    { label: '<img src="legend/MoyenneBalayage.png" /> Moyenne Balayage', layer: layer_MoyenneBalayage_10, radioGroup: 'bc' },
+                    { label: '<img src="legend/Mediation.png" /> Mediation', layer: layer_Mediation_11, radioGroup: 'bc' },
+                    { label: '<img src="legend/Taxe.png" /> Taxes', layer: layer_Taxe_9, radioGroup: 'bc' },
+                    { label: '<img src="legend/DecheterieMobile.png" /> Decheterie Mobile', layer: layer_DecheterieMobile_8, radioGroup: 'bc' },]
+            },
+            {
+                label: '<b>Schaerbeek</b>', children: [
+                    { label: '<img src="legend/LimitesSchaerbeek_3.png" /> Limites Schaerbeek', layer: layer_LimitesSchaerbeek_3, radioGroup: 'bd' },
+                    { label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> Limites Quartiers 1030', layer: layer_LimitesSchaerbeekQuartiers_2, radioGroup: 'bd' },
+					{ label: 'Limites SecteursSPEV<br /><table><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Radium0.png" /></td><td>Radium</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Rodenbach1.png" /></td><td>Rodenbach</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Vifquin2.png" /></td><td>Vifquin</td></tr></table>', layer: layer_LimitesSecteursSPEV_7, radioGroup: 'bd' },]
             },
             {
                 label: '<b>Secteurs SPEV</b>', collapsed: true, selectAllCheckbox: true, children: [
-                    { label: 'Limites SecteursSPEV<br /><table><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Radium0.png" /></td><td>Radium</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Rodenbach1.png" /></td><td>Rodenbach</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Vifquin2.png" /></td><td>Vifquin</td></tr></table>', layer: layer_LimitesSecteursSPEV_7 },
                     { label: 'Vifquin<br /><table><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin010.png" /></td><td>Vifquin01</td></tr><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin021.png" /></td><td>Vifquin02</td></tr><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin032.png" /></td><td>Vifquin03</td></tr></table>', layer: layer_Vifquin_6 },
                     { label: 'Radium<br /><table><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium010.png" /></td><td>Radium01</td></tr><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium021.png" /></td><td>Radium02</td></tr><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium032.png" /></td><td>Radium03</td></tr></table>', layer: layer_Radium_5 },
                     { label: 'Rodenbach<br /><table><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach010.png" /></td><td>Rodenbach01</td></tr><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach021.png" /></td><td>Rodenbach02</td></tr><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach032.png" /></td><td>Rodenbach03</td></tr></table>', layer: layer_Rodenbach_4 },]
             },
-            {
-                label: '<b>Schaerbeek</b>', collapsed: true, selectAllCheckbox: true, children: [
-                    { label: '<img src="legend/LimitesSchaerbeek_3.png" /> LimitesSchaerbeek', layer: layer_LimitesSchaerbeek_3 },
-                    { label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> LimitesSchaerbeekQuartiers', layer: layer_LimitesSchaerbeekQuartiers_2 },]
-            },
-            { label: "Google Terrain", layer: layer_GoogleTerrain_1 },
-            { label: "Google Satellite", layer: layer_GoogleSatellite_0 },]
+            {label: "Google Terrain", layer: layer_GoogleTerrain_1, radioGroup: 'bm' },
+            {label: "Google Satellite", layer: layer_GoogleSatellite_0, radioGroup: 'bm' },]
+			
+			
         var lay = L.control.layers.tree(null, overlaysTree, {
             //namedToggle: true,
             //selectorBack: false,
@@ -1614,7 +1684,7 @@
                 var myButton = L.DomUtil.create('button', 'my-button-class', div);
                 myButton.innerHTML = 'carte NL';
                 L.DomEvent.on(myButton, 'click', function () {
-                    window.open("https://gis1030.github.io/Bilan-SPEV1030/indexNL.html");
+                    window.open("indexNL.html");
                     window.close();
                 }, this);
                 return div;
