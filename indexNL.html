@@ -17,6 +17,9 @@
         html,
         body,
         #map {
+			position: absolute;
+			top: 0;
+			right: 0;
             width: 100%;
             height: 100%;
             padding: 0;
@@ -828,7 +831,7 @@
             },
         });
         bounds_group.addLayer(layer_MobielRecycling_8);
-        map.addLayer(layer_MobielRecycling_8);
+        //map.addLayer(layer_MobielRecycling_8);
 
         function pop_Taxe_9(feature, layer) {
             layer.on({
@@ -955,7 +958,7 @@
             },
         });
         bounds_group.addLayer(layer_Taxe_9);
-        map.addLayer(layer_Taxe_9);
+        //map.addLayer(layer_Taxe_9);
 
         function pop_GemiddeldeScan_10(feature, layer) {
             layer.on({
@@ -1098,7 +1101,7 @@
             },
         });
         bounds_group.addLayer(layer_GemiddeldeScan_10);
-        map.addLayer(layer_GemiddeldeScan_10);
+        //map.addLayer(layer_GemiddeldeScan_10);
 
         function pop_Bemiddeling_11(feature, layer) {
             layer.on({
@@ -1177,7 +1180,7 @@
             },
         });
         bounds_group.addLayer(layer_Bemiddeling_11);
-        map.addLayer(layer_Bemiddeling_11);
+        //map.addLayer(layer_Bemiddeling_11);
 
         function pop_Interventies_12(feature, layer) {
             layer.on({
@@ -1387,7 +1390,7 @@
             style: style_Interventiegebieden_13_0,
         });
         bounds_group.addLayer(layer_Interventiegebieden_13);
-        map.addLayer(layer_Interventiegebieden_13);
+        //map.addLayer(layer_Interventiegebieden_13);
 
         function pop_Interventiepunten_14(feature, layer) {
             layer.on({
@@ -1494,29 +1497,27 @@
                     { label: '<img src="legend/Zonesdintervention_13.png" /> Interventiegebieden', layer: layer_Interventiegebieden_13 },]
             },
             {
-                label: '<b>InterventiesSPEV</b>', selectAllCheckbox: true, children: [
-
-                    { label: '<img src="legend/Intervention.png" /> Interventies', layer: layer_Interventies_12 },
-                    { label: '<img src="legend/MoyenneBalayage.png" /> Gemiddelde Scan', layer: layer_GemiddeldeScan_10 },
-                    { label: '<img src="legend/Mediation.png" /> Bemiddeling', layer: layer_Bemiddeling_11 },
-                    { label: '<img src="legend/Taxe.png" /> Taxes', layer: layer_Taxe_9 },
-                    { label: '<img src="legend/DecheterieMobile.png" /> Mobiel Recycling', layer: layer_MobielRecycling_8 },]
+                label: '<b>InterventiesSPEV</b>', children: [
+                    { label: '<img src="legend/Intervention.png" /> Interventies', layer: layer_Interventies_12,radioGroup: 'bc'},
+                    { label: '<img src="legend/MoyenneBalayage.png" /> Gemiddelde Scan', layer: layer_GemiddeldeScan_10,radioGroup: 'bc' },
+                    { label: '<img src="legend/Mediation.png" /> Bemiddeling', layer: layer_Bemiddeling_11,radioGroup: 'bc' },
+                    { label: '<img src="legend/Taxe.png" /> Taxes', layer: layer_Taxe_9,radioGroup: 'bc' },
+                    { label: '<img src="legend/DecheterieMobile.png" /> Mobiel Recycling', layer: layer_MobielRecycling_8,radioGroup: 'bc' },]
             },
-
+            {
+                label: '<b>Schaerbeek</b>', children: [
+                    { label: '<img src="legend/LimitesSchaerbeek_3.png" /> SchaarbeekseGrenzen', layer: layer_SchaarbeekseGrenzen_3, radioGroup: 'bd' },
+                    { label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> BuurtlimietsSchaerbeek', layer: layer_BuurtlimietsSchaerbeek_2, radioGroup: 'bd' },
+					{ label: 'SPEV-sectorlimieten<br /><table><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Radium0.png" /></td><td>Radium</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Rodenbach1.png" /></td><td>Rodenbach</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Vifquin2.png" /></td><td>Vifquin</td></tr></table>', layer: layer_SPEVsectorlimieten_7, radioGroup: 'bd' },]
+            },
             {
                 label: '<b>Secteurs SPEV</b>', collapsed: true, selectAllCheckbox: true, children: [
-                    { label: 'SPEV-sectorlimieten<br /><table><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Radium0.png" /></td><td>Radium</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Rodenbach1.png" /></td><td>Rodenbach</td></tr><tr><td style="text-align: center;"><img src="legend/LimitesSecteursSPEV_7_Vifquin2.png" /></td><td>Vifquin</td></tr></table>', layer: layer_SPEVsectorlimieten_7 },
                     { label: 'Vifquin<br /><table><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin010.png" /></td><td>Vifquin01</td></tr><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin021.png" /></td><td>Vifquin02</td></tr><tr><td style="text-align: center;"><img src="legend/Vifquin_6_Vifquin032.png" /></td><td>Vifquin03</td></tr></table>', layer: layer_Vifquin_6 },
                     { label: 'Radium<br /><table><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium010.png" /></td><td>Radium01</td></tr><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium021.png" /></td><td>Radium02</td></tr><tr><td style="text-align: center;"><img src="legend/Radium_5_Radium032.png" /></td><td>Radium03</td></tr></table>', layer: layer_Radium_5 },
                     { label: 'Rodenbach<br /><table><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach010.png" /></td><td>Rodenbach01</td></tr><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach021.png" /></td><td>Rodenbach02</td></tr><tr><td style="text-align: center;"><img src="legend/Rodenbach_4_Rodenbach032.png" /></td><td>Rodenbach03</td></tr></table>', layer: layer_Rodenbach_4 },]
             },
-            {
-                label: '<b>Schaerbeek</b>', collapsed: true, selectAllCheckbox: true, children: [
-                    { label: '<img src="legend/LimitesSchaerbeek_3.png" /> SchaarbeekseGrenzen', layer: layer_SchaarbeekseGrenzen_3 },
-                    { label: '<img src="legend/LimitesSchaerbeekQuartiers_2.png" /> BuurtlimietsSchaerbeek', layer: layer_BuurtlimietsSchaerbeek_2 },]
-            },
-            { label: "Google Terrain", layer: layer_GoogleTerrain_1 },
-            { label: "Google Satellite", layer: layer_GoogleSatellite_0 },]
+            { label: "Google Terrain", layer: layer_GoogleTerrain_1, radioGroup: 'bm' },
+            { label: "Google Satellite", layer: layer_GoogleSatellite_0, radioGroup: 'bm' },]
         var lay = L.control.layers.tree(null, overlaysTree, {
             //namedToggle: true,
             //selectorBack: false,
@@ -1613,7 +1614,7 @@
                 var myButton = L.DomUtil.create('button', 'my-button-class', div);
                 myButton.innerHTML = 'kaart FR';
                 L.DomEvent.on(myButton, 'click', function () {
-                    window.open("https://gis1030.github.io/Bilan-SPEV1030/indexFR.html");
+                    window.open("indexFR.html");
                     window.close();
                 }, this);
                 return div;
