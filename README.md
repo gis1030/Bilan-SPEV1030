@@ -8,3 +8,6 @@ The data represented correspond to the results of the interventions carried out 
 ## Notes
 For confidentiality reasons, information is provided by street address, without specifying the number.
 For more information, please contact our call center at 0800 939 88.
+
+### Last Updates
+23/07/2025
