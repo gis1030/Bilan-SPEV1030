@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <title>SPEV Schaerbeek</title>
     <link rel="shortcut icon" href="css/images/logo1030GeoData.ico" type="image/x-icon">
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
     <meta name="mobile-web-app-capable" content="yes">
@@ -86,6 +86,14 @@
                     </p>
                 </div>
             </div>
+
+            <!--
+				<div class="credits">
+				  <p>
+					Commune de Schaerbeek©<a href="https://www.1030.be/">Commune de Schaerbeek</a>
+				  </p>
+				</div>
+				-->
         </div>
     </div>
 
@@ -102,6 +110,7 @@
     <script src="js/labels.js"></script>
     <script src="js/leaflet.photon.js"></script>
     <script src="js/leaflet-search.js"></script>
+	<script src="js/easy-button.js"></script>
 
     <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
     <script src="data/SchaerbekBorders/LimitesSchaerbeek.js"></script>
@@ -136,7 +145,7 @@
         }).fitBounds([[50.84242805691727, 4.35343370855978], [50.88164566987217, 4.4308537948872715]]);
 
         var hash = new L.Hash(map);
-        map.attributionControl.setPrefix('ih2© <a href="https://www.1030.be/" target="_blank" >Commune de Schaerbeek</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        map.attributionControl.setPrefix('©GeoData1030: geodata.gis1030@gmail.com <a href="https://www.1030.be/" target="_blank" >Commune de Schaerbeek</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({ truncate: { length: 30, location: 'smart' } });
 
         // remove popup's row if "visible-with-data"
@@ -176,7 +185,7 @@
             return this._div;
         };
         title.update = function () {
-            this._div.innerHTML = '<h2>Actions de propreté publique du service communal de Schaerbeek <br> données cumulées en 2025</h2>';
+            this._div.innerHTML = '<h2>Juillet 2025. Actions de propreté publique <br>du service communal de Schaerbeek.</h2>';
         };
         title.addTo(map);
 
@@ -845,8 +854,8 @@
                         <td>' + (feature.properties['Total Mediation'] !== null ? autolinker.link(String(feature.properties['Total Mediation']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">nombre de balayage</th>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -957,7 +966,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -991,7 +1000,7 @@
             if (feature.properties['Total Taxe'] >= 1.000000 && feature.properties['Total Taxe'] <= 5.000000) {
                 return {
                     pane: 'pane_Taxe_9',
-                    radius: 2.0,
+                    radius: 8,
                     opacity: 1,
                     color: 'rgba(89,112,225,1.0)',
                     dashArray: '',
@@ -1007,7 +1016,7 @@
             if (feature.properties['Total Taxe'] >= 5.000000 && feature.properties['Total Taxe'] <= 10.000000) {
                 return {
                     pane: 'pane_Taxe_9',
-                    radius: 7,
+                    radius: 10,
                     opacity: 1,
                     color: 'rgba(89,112,225,1.0)',
                     dashArray: '',
@@ -1023,7 +1032,7 @@
             if (feature.properties['Total Taxe'] >= 10.000000 && feature.properties['Total Taxe'] <= 15.000000) {
                 return {
                     pane: 'pane_Taxe_9',
-                    radius: 11,
+                    radius: 15,
                     opacity: 1,
                     color: 'rgba(89,112,225,1.0)',
                     dashArray: '',
@@ -1036,10 +1045,10 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Total Taxe'] >= 15.000000 && feature.properties['Total Taxe'] <= 20.000000) {
+            if (feature.properties['Total Taxe'] >= 15.000000) {
                 return {
                     pane: 'pane_Taxe_9',
-                    radius: 16.0,
+                    radius: 18,
                     opacity: 1,
                     color: 'rgba(89,112,225,1.0)',
                     dashArray: '',
@@ -1116,7 +1125,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -1131,7 +1140,7 @@
         }
 
         function style_MoyenneBalayage_10_0(feature) {
-            if (feature.properties['Moyenne Balayage'] == 0.000000) {
+            if (feature.properties['Total Balayage'] == 0.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 0.0,
@@ -1147,7 +1156,7 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Moyenne Balayage'] >= 1.000000 && feature.properties['Moyenne Balayage'] <= 10.000000) {
+            if (feature.properties['Total Balayage'] >= 1.000000 && feature.properties['Total Balayage'] <= 10.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 2.0,
@@ -1163,7 +1172,7 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Moyenne Balayage'] >= 10.000000 && feature.properties['Moyenne Balayage'] <= 15.000000) {
+            if (feature.properties['Total Balayage'] >= 10.000000 && feature.properties['Total Balayage'] <= 15.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 5.5,
@@ -1179,7 +1188,7 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Moyenne Balayage'] >= 15.000000 && feature.properties['Moyenne Balayage'] <= 20.000000) {
+            if (feature.properties['Total Balayage'] >= 15.000000 && feature.properties['Total Balayage'] <= 20.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 9.0,
@@ -1195,7 +1204,7 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Moyenne Balayage'] >= 20.000000 && feature.properties['Moyenne Balayage'] <= 50.000000) {
+            if (feature.properties['Total Balayage'] >= 20.000000 && feature.properties['Total Balayage'] <= 50.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 12.5,
@@ -1211,7 +1220,7 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Moyenne Balayage'] >= 50.000000 && feature.properties['Moyenne Balayage'] <= 5000.000000) {
+            if (feature.properties['Total Balayage'] >= 50.000000 && feature.properties['Total Balayage'] <= 5000.000000) {
                 return {
                     pane: 'pane_MoyenneBalayage_10',
                     radius: 16.0,
@@ -1291,7 +1300,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -1322,12 +1331,12 @@
                     interactive: true,
                 }
             }
-            if (feature.properties['Total Mediation'] >= 1 && feature.properties['Total Mediation'] <= 5) {
+            if (feature.properties['Total Mediation'] >= 1) {
                 return {
                     pane: 'pane_Mediation_11',
-                    radius: 4,
+                    radius: 8,
                     opacity: 1,
-                    color: 'rgba(89,112,225,1.0)',
+                    color: 'rgba(219,128,92,1)',
                     dashArray: '',
                     lineCap: 'butt',
                     lineJoin: 'miter',
@@ -1402,7 +1411,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -1594,7 +1603,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">nombre moyenne de balayage</th>\
-                        <td>' + (feature.properties['Moyenne Balayage'] !== null ? autolinker.link(String(feature.properties['Moyenne Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Balayage'] !== null ? autolinker.link(String(feature.properties['Total Balayage']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">nombre de déchetterie mobile</th>\
@@ -1813,7 +1822,7 @@
             {
                 label: '<b>InterventionsSPEV</b>', children: [
                     { label: '<img src="legend/Intervention.png" /> Intervention', layer: layer_Intervention_12, radioGroup: 'bc' },
-                    { label: '<img src="legend/MoyenneBalayage.png" /> Moyenne Balayage', layer: layer_MoyenneBalayage_10, radioGroup: 'bc' },
+                    { label: '<img src="legend/MoyenneBalayage.png" /> Total Balayage', layer: layer_MoyenneBalayage_10, radioGroup: 'bc' },
                     { label: '<img src="legend/Mediation.png" /> Mediation', layer: layer_Mediation_11, radioGroup: 'bc' },
                     { label: '<img src="legend/Taxe.png" /> Taxes', layer: layer_Taxe_9, radioGroup: 'bc' },
                     { label: '<img src="legend/DecheterieMobile.png" /> Decheterie Mobile', layer: layer_DecheterieMobile_8, radioGroup: 'bc' },]
@@ -1922,29 +1931,47 @@
         });
     </script>
 
+	<script>		
+	L.Control.Watermark = L.Control.extend({
+		onAdd: function(map) {
+			var img = L.DomUtil.create('img');
+			img.src = 'css/images/schaerbeek1030_logo.png';
+			img.style.width = '75px';
+				return img;
+		},
+		onRemove: function(map) {
+				// Nothing to do here
+		}
+	});
+	L.control.watermark = function(opts) {return new L.Control.Watermark(opts);}
+	L.control.watermark({ position: 'bottomleft' }).addTo(map);
+	</script>
     <script>
-        let MyControlClass = L.Control.extend({
-            options: {
-                position: 'topleft'
-            },
+	let MyControlClass = L.Control.extend({
+		options: {
+			position: 'topleft'
+		},
 
-            onAdd: function (map) {
-                var div = L.DomUtil.create('div', 'leaflet-bar my-control');
+		onAdd: function (map) {
+		var div = L.DomUtil.create('div', 'leaflet-bar my-control');
 
-                var myButton = L.DomUtil.create('button', 'my-button-class', div);
-                myButton.innerHTML = 'carte NL';
-                L.DomEvent.on(myButton, 'click', function () {
-                    window.open("indexNL.html");
-                    window.close();
-                }, this);
-                return div;
-            },
+		var myButton = L.DomUtil.create('button', 'my-button-class', div);
+			myButton.innerHTML = 'carte NL';
+			L.DomEvent.on(myButton, 'click', function () {
+				window.open("indexNL.html");
+				window.close();
+			}, this);
+			return div;
+		},
 
-            onRemove: function (map) {
-            }
-        });
-        let myControl = new MyControlClass().addTo(map);
+		onRemove: function (map) {
+		}
+	});
+	let myControl = new MyControlClass().addTo(map);
+	
+	L.easyButton('fa-envelope', function(btn, map){
+	var url = "mailto:spev_repondeur@1030.be?subject=Feedback: Actions de propreté publique: (carte SPEV)";
+		window.location.href = url;
+	}).setPosition('bottomleft').addTo(map); // topleft, topright, bottomleft, bottomright
     </script>
-</body>
-
 </html>
