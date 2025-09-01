@@ -1796,6 +1796,7 @@
             console.log(e);
             e.target.input.value = z;
         });
+
         var search = document.getElementsByClassName("leaflet-photon leaflet-control")[0];
         search.classList.add("leaflet-control-search")
         search.style.display = "flex";
@@ -1909,11 +1910,12 @@
             }
         });
         setBounds();
+		
         map.addControl(new L.Control.Search({
-            layer: layer_StreetAxesSPEV_11,
+            layer: layer_Intervention_12,
             initial: false,
             hideMarkerOnCollapse: true,
-            propertyName: 'RueFR'}));
+            propertyName: 'Rue'}));
         if (typeof url === 'undefined') {
             document.getElementsByClassName('search-button')[0].className += ' fa fa-binoculars';
         } else {
