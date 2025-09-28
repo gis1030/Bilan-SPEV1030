@@ -40,7 +40,7 @@
         <div class="container">
             <div class="sidebar">
                 <h1>
-                    <div class="logo"></div>
+                    <!--<div class="logo"></div-->
                     <span>Actions de propreté publique du service communal de Schaerbeek</span>
                 </h1>
 
@@ -108,9 +108,9 @@
     <script src="js/rbush.min.js"></script>
     <script src="js/labelgun.min.js"></script>
     <script src="js/labels.js"></script>
-    <script src="js/leaflet.photon.js"></script>
-    <script src="js/leaflet-search.js"></script>
-	<script src="js/easy-button.js"></script>
+	<script src="js/leaflet.photon.js"></script> 
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/easy-button.js"></script> 
 
     <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
     <script src="data/SchaerbekBorders/LimitesSchaerbeek.js"></script>
@@ -178,7 +178,7 @@
             }
         }
 
-        var title = new L.Control({ 'position': 'bottomleft' });
+        var title = new L.Control({ 'position': 'topleft' });
         title.onAdd = function (map) {
             this._div = L.DomUtil.create('div', 'info');
             this.update();
@@ -1761,6 +1761,8 @@
         //map.addLayer(layer_StreetAxesSPEV_11);
         /* END Zonesdintervention */
 
+/*
+// BEGIN >> Eliminar
         const url = {
             "Nominatim": "https://nominatim.openstreetmap.org/search?format=geojson&addressdetails=1&",
             "BAN": "https://api-adresse.data.gouv.fr/search/?"
@@ -1818,6 +1820,8 @@
                 last.style.display = "none";
             }
         });
+// END >> Eliminar
+*/ 	
 
         var overlaysTree = [
             {
@@ -1859,6 +1863,7 @@
             collapsed: false,
         });
         lay.addTo(map);
+		
         document.addEventListener("DOMContentLoaded", function () {
             // set new Layers List height which considers toggle icon
             function newLayersListHeight() {
