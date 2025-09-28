@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr">
+<html lang="nl">
 
 <head>
     <title>SPEV Schaerbeek</title>
@@ -40,7 +40,7 @@
         <div class="container">
             <div class="sidebar">
                 <h1>
-                    <div class="logo"></div>
+                    <!--<div class="logo"></div-->
                     <span>Openbare schoonmaakacties van de gemeente Schaarbeek</span>
                 </h1>
 
@@ -109,9 +109,9 @@
     <script src="js/rbush.min.js"></script>
     <script src="js/labelgun.min.js"></script>
     <script src="js/labels.js"></script>
-    <script src="js/leaflet.photon.js"></script>
-    <script src="js/leaflet-search.js"></script>
-	<script src="js/easy-button.js"></script>
+	<script src="js/leaflet.photon.js"></script> 
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/easy-button.js"></script> 
 
     <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
     <script src="data/SchaerbekBorders/LimitesSchaerbeek.js"></script>
@@ -176,7 +176,7 @@
                 popup._contentNode.classList.remove('media');
             }
         }
-        var title = new L.Control({ 'position': 'bottomleft' });
+        var title = new L.Control({ 'position': 'topleft' });
         title.onAdd = function (map) {
             this._div = L.DomUtil.create('div', 'info');
             this.update();
@@ -1751,6 +1751,8 @@
         bounds_group.addLayer(layer_Interventiepunten_14);
         map.addLayer(layer_Interventiepunten_14);
 
+/*
+// BEGIN >> Eliminar
         const url = {
             "Nominatim": "https://nominatim.openstreetmap.org/search?format=geojson&addressdetails=1&",
             "BAN": "https://api-adresse.data.gouv.fr/search/?"
@@ -1786,6 +1788,7 @@
             console.log(e);
             e.target.input.value = z;
         });
+
         var search = document.getElementsByClassName("leaflet-photon leaflet-control")[0];
         search.classList.add("leaflet-control-search")
         search.style.display = "flex";
@@ -1807,8 +1810,10 @@
                 last.style.display = "none";
             }
         });
+// END >> Eliminar
+*/ 	
 
-
+	
         var overlaysTree = [
             {
                 label: '<b>InterventiesSPEV</b>', children: [
@@ -1899,6 +1904,7 @@
             }
         });
         setBounds();
+		
         map.addControl(new L.Control.Search({
             layer: layer_Interventies_12,
             initial: false,
