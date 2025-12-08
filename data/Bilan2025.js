@@ -1,7 +1,7 @@
 var json_SPEVBilan2025 =  {
 	"type": "FeatureCollection",
 	"name": "SPEVBilan2025",
-	"month": "October",
+	"month": "November",
 	"crs": {
 		"type": "name",
 		"properties": {
@@ -24,10 +24,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Avenue Chazal",
 				"Straat": "Chazallaan",
-				"Total Interventions": 97,
-				"Total Taxe": 6,
+				"Total Interventions": 76,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -46,10 +46,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Avenue des Azalées",
 				"Straat": "Azalealaan",
-				"Total Interventions": 11,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -68,10 +68,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Avenue Ernest Cambier",
 				"Straat": "Ernest Cambierlaan",
-				"Total Interventions": 15,
-				"Total Taxe": 1,
+				"Total Interventions": 7,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -90,10 +90,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Avenue Général Eisenhower",
 				"Straat": "Generaal Eisenhowerlaan",
-				"Total Interventions": 36,
+				"Total Interventions": 28,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -112,10 +112,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Avenue Paul Deschanel",
 				"Straat": "Paul Deschanellaan",
-				"Total Interventions": 111,
-				"Total Taxe": 1,
+				"Total Interventions": 97,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -156,8 +156,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Chaussée de Louvain",
 				"Straat": "Leuvensesteenweg",
-				"Total Interventions": 1,
-				"Total Taxe": 17,
+				"Total Interventions": 4,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
 				"Total Dechetterie Mobile": 0
@@ -178,8 +178,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Place de la Patrie",
 				"Straat": "Vaderlandsplein",
-				"Total Interventions": 18,
-				"Total Taxe": 4,
+				"Total Interventions": 23,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
@@ -200,8 +200,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Place des Bienfaiteurs",
 				"Straat": "Weldoenersplein",
-				"Total Interventions": 28,
-				"Total Taxe": 3,
+				"Total Interventions": 19,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
@@ -222,10 +222,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue des Chardons",
 				"Straat": "Distelsstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -244,10 +244,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue des Coteaux",
 				"Straat": "Wijnheuvelenstraat",
-				"Total Interventions": 108,
+				"Total Interventions": 118,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -266,10 +266,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue des Pâquerettes",
 				"Straat": "Madeliefjesstraat",
-				"Total Interventions": 13,
+				"Total Interventions": 16,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -288,10 +288,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Fontaine d'Amour",
 				"Straat": "Minnebronstraat",
-				"Total Interventions": 8,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -310,10 +310,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Frans Binjé",
 				"Straat": "Frans Binjéstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -332,10 +332,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Godefroid Devreese",
 				"Straat": "Godefroid Devreesestraat",
-				"Total Interventions": 5,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -354,10 +354,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Henri Stacquet",
 				"Straat": "Henri Stacquetstraat",
-				"Total Interventions": 12,
-				"Total Taxe": 1,
+				"Total Interventions": 13,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -376,7 +376,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Henry Villard",
 				"Straat": "Henry Villardstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 17,
@@ -398,10 +398,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Josse Impens",
 				"Straat": "Josse Impensstraat",
-				"Total Interventions": 24,
-				"Total Taxe": 1,
+				"Total Interventions": 10,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -420,10 +420,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Paul Devigne",
 				"Straat": "Paul Devignestraat",
-				"Total Interventions": 33,
+				"Total Interventions": 11,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -442,10 +442,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Thiéfry",
 				"Straat": "Thiéfrystraat",
-				"Total Interventions": 34,
+				"Total Interventions": 22,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -464,10 +464,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Rue Vandenbussche",
 				"Straat": "Vandenbusschestraat",
-				"Total Interventions": 10,
+				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -486,10 +486,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Square Emile Duployé",
 				"Straat": "Emile Duployésquare",
-				"Total Interventions": 4,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -508,7 +508,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 1",
 				"Rue": "Square Prévost-Delaunay",
 				"Straat": "Prévost-Delaunaysquare",
-				"Total Interventions": 5,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -530,10 +530,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Avenue Clays",
 				"Straat": "Clayslaan",
-				"Total Interventions": 6,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -552,10 +552,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Avenue Dailly",
 				"Straat": "Daillylaan",
-				"Total Interventions": 58,
+				"Total Interventions": 88,
 				"Total Taxe": 2,
-				"Total Mediation": 2,
-				"Total Balayage": 17.55,
+				"Total Mediation": 1,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -574,10 +574,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Avenue Jan Stobbaerts",
 				"Straat": "Jan Stobbaertslaan",
-				"Total Interventions": 16,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 7,
+				"Total Mediation": 1,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -596,10 +596,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Grande rue au Bois",
 				"Straat": "Grote Bosstraat",
-				"Total Interventions": 9,
-				"Total Taxe": 5,
-				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Interventions": 10,
+				"Total Taxe": 0,
+				"Total Mediation": 1,
+				"Total Balayage": 10.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -618,10 +618,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Place Colonel Bremer",
 				"Straat": "Kolonel Bremerplein",
-				"Total Interventions": 0,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -640,9 +640,9 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Place Dailly",
 				"Straat": "Daillyplein",
-				"Total Interventions": 3,
-				"Total Taxe": 4,
-				"Total Mediation": 0,
+				"Total Interventions": 5,
+				"Total Taxe": 0,
+				"Total Mediation": 1,
 				"Total Balayage": 0,
 				"Total Dechetterie Mobile": 0
 			}
@@ -662,10 +662,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Albert de Latour",
 				"Straat": "Albert de Latourstraat",
-				"Total Interventions": 5,
+				"Total Interventions": 11,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -684,10 +684,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Alexandre Markelbach",
 				"Straat": "Alexandre Markelbachstraat",
-				"Total Interventions": 8,
-				"Total Taxe": 1,
+				"Total Interventions": 10,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -706,10 +706,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue André Van Hasselt",
 				"Straat": "André Van Hasseltstraat",
-				"Total Interventions": 3,
-				"Total Taxe": 1,
+				"Total Interventions": 4,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -728,10 +728,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Artan",
 				"Straat": "Artanstraat",
-				"Total Interventions": 39,
+				"Total Interventions": 32,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -750,10 +750,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Auguste Lambiotte",
 				"Straat": "Auguste Lambiottestraat",
-				"Total Interventions": 25,
-				"Total Taxe": 3,
+				"Total Interventions": 70,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -772,10 +772,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue de la Cible",
 				"Straat": "Schietschijfstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -794,10 +794,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue de la Consolation",
 				"Straat": "Trooststraat",
-				"Total Interventions": 28,
-				"Total Taxe": 1,
+				"Total Interventions": 30,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -816,10 +816,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue de la Luzerne",
 				"Straat": "Luzernestraat",
-				"Total Interventions": 9,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 11.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -838,10 +838,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue des Pavots",
 				"Straat": "Papaverstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 10.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -863,7 +863,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -882,10 +882,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Emile Wittmann",
 				"Straat": "Rue Emile Wittmannstraat",
-				"Total Interventions": 6,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -904,10 +904,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Eugène Smits",
 				"Straat": "Eugène Smitsstraat",
-				"Total Interventions": 7,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -927,9 +927,9 @@ var json_SPEVBilan2025 =  {
 				"Rue": "Rue François Bossaerts",
 				"Straat": "François Bossaertsstraat",
 				"Total Interventions": 21,
-				"Total Taxe": 3,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14.5,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -948,10 +948,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Gustave Fuss",
 				"Straat": "Gustave Fussstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -970,7 +970,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Jacques Jansen",
 				"Straat": "Jacques Jansenstraat",
-				"Total Interventions": 12,
+				"Total Interventions": 21,
 				"Total Taxe": 1,
 				"Total Mediation": 0,
 				"Total Balayage": 12,
@@ -992,10 +992,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Joseph Coosemans",
 				"Straat": "Joseph Coosemansstraat",
-				"Total Interventions": 27,
-				"Total Taxe": 3,
+				"Total Interventions": 20,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 11.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1014,10 +1014,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Léon Mignon",
 				"Straat": "Léon Mignonstraat",
-				"Total Interventions": 21,
-				"Total Taxe": 1,
+				"Total Interventions": 29,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1036,10 +1036,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Monrose",
 				"Straat": "Monrosestraat",
-				"Total Interventions": 20,
+				"Total Interventions": 27,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -1058,10 +1058,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Roelandts",
 				"Straat": "Roelandtsstraat",
-				"Total Interventions": 11,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -1080,10 +1080,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Thomas Vinçotte",
 				"Straat": "Thomas Vinçottestraat",
-				"Total Interventions": 18,
-				"Total Taxe": 2,
+				"Total Interventions": 31,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1102,10 +1102,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Van Hammée",
 				"Straat": "van Hamméestraat",
-				"Total Interventions": 10,
+				"Total Interventions": 17,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 19.5,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1124,10 +1124,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Van Hove",
 				"Straat": "van Hovestraat",
-				"Total Interventions": 7,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1146,10 +1146,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Verbist",
 				"Straat": "Verbiststraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1171,7 +1171,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1190,10 +1190,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 2",
 				"Rue": "Rue Vonck",
 				"Straat": "Vonckstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1234,10 +1234,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Adolphe Lacomblé",
 				"Straat": "Adolphe Lacomblélaan",
-				"Total Interventions": 32,
+				"Total Interventions": 28,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1256,10 +1256,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Charbo",
 				"Straat": "Charbolaan",
-				"Total Interventions": 22,
+				"Total Interventions": 21,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1278,10 +1278,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue de la Brabançonne",
 				"Straat": "Brabançonnelaan",
-				"Total Interventions": 13,
+				"Total Interventions": 10,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1303,7 +1303,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1322,10 +1322,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue de la Topaze",
 				"Straat": "Topaaslaan",
-				"Total Interventions": 23,
+				"Total Interventions": 29,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1344,10 +1344,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue de l'Emeraude",
 				"Straat": "Smaragdlaan",
-				"Total Interventions": 1,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1366,10 +1366,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue de l'Opale",
 				"Straat": "Opaallaan",
-				"Total Interventions": 18,
+				"Total Interventions": 15,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1391,7 +1391,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1434,8 +1434,8 @@ var json_SPEVBilan2025 =  {
 				"Straat": "Kerselarenlaan",
 				"Total Interventions": 1,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Mediation": 1,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1457,7 +1457,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1476,10 +1476,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue des Jardins",
 				"Straat": "Bloemtuinenlaan",
-				"Total Interventions": 2,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -1498,7 +1498,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue du Diamant",
 				"Straat": "Diamantlaan",
-				"Total Interventions": 0,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -1523,7 +1523,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 23,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 3,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1542,7 +1542,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Eugène Plasky",
 				"Straat": "Eugène Plaskylaan",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -1564,10 +1564,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Félix Marchal",
 				"Straat": "Félix Marchallaan",
-				"Total Interventions": 22,
+				"Total Interventions": 34,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 11.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1586,10 +1586,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Fortin",
 				"Straat": "Fortinlaan",
-				"Total Interventions": 3,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1608,7 +1608,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Frans Courtens",
 				"Straat": "Frans Courtenslaan",
-				"Total Interventions": 5,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 12,
@@ -1633,7 +1633,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1652,10 +1652,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Jacques Georgin",
 				"Straat": "Jacques Georginlaan",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1674,10 +1674,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Léon Mahillon",
 				"Straat": "Léon Mahillonlaan",
-				"Total Interventions": 15,
+				"Total Interventions": 30,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1696,10 +1696,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Avenue Milcamps",
 				"Straat": "Milcampslaan",
-				"Total Interventions": 17,
+				"Total Interventions": 39,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10.5,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1787,7 +1787,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1809,7 +1809,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1831,7 +1831,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1853,7 +1853,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1894,10 +1894,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Place des Carabiniers",
 				"Straat": "Karabiniersplein",
-				"Total Interventions": 1,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1916,10 +1916,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Place des Chasseurs Ardennais",
 				"Straat": "Ardense Jagersplein",
-				"Total Interventions": 5,
+				"Total Interventions": 18,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1938,7 +1938,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Place Général Meiser",
 				"Straat": "Generaal Meiserplein",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -1963,7 +1963,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 7,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -1985,7 +1985,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2007,7 +2007,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2048,7 +2048,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue de Genève",
 				"Straat": "Genèvestraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 12,
@@ -2070,10 +2070,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue de Linthout",
 				"Straat": "Linthoutstraat",
-				"Total Interventions": 13,
+				"Total Interventions": 17,
 				"Total Taxe": 0,
-				"Total Mediation": 1,
-				"Total Balayage": 9,
+				"Total Mediation": 0,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2092,10 +2092,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue de l'Orme",
 				"Straat": "Olmstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 6,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2114,10 +2114,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue des Compagnons",
 				"Straat": "Gezellenstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2158,10 +2158,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue du Radium",
 				"Straat": "Radiumstraat",
-				"Total Interventions": 9,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2180,10 +2180,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue du Saphir",
 				"Straat": "Saffierstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2202,10 +2202,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Frédéric Pelletier",
 				"Straat": "Frédéric Pelletierstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2224,7 +2224,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Général Gratry",
 				"Straat": "Generaal Gratrystraat",
-				"Total Interventions": 8,
+				"Total Interventions": 18,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 9,
@@ -2246,10 +2246,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Henri Chomé",
 				"Straat": "Henri Choméstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2269,9 +2269,9 @@ var json_SPEVBilan2025 =  {
 				"Rue": "Rue Henri Evenepoel",
 				"Straat": "Henri Evenepoelstraat",
 				"Total Interventions": 6,
-				"Total Taxe": 1,
-				"Total Mediation": 2,
-				"Total Balayage": 9,
+				"Total Taxe": 0,
+				"Total Mediation": 0,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2312,10 +2312,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Jules Lebrun",
 				"Straat": "Jules Lebrunstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2337,7 +2337,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 7.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2356,10 +2356,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Léon Frédéric",
 				"Straat": "Léon Frédéricstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2378,10 +2378,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Louis Scutenaire",
 				"Straat": "Louis Scutenairestraat",
-				"Total Interventions": 13,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2403,7 +2403,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2422,10 +2422,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Marcel Mariën",
 				"Straat": "Marcel Mariënstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2444,10 +2444,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Paul Hymans",
 				"Straat": "Paul Hymansstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2466,7 +2466,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Paul Leduc",
 				"Straat": "Paul Leducstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 12,
@@ -2488,10 +2488,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Rasson",
 				"Straat": "Rassonstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8.5,
+				"Total Balayage": 12.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2510,7 +2510,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Théodore Roosevelt",
 				"Straat": "Théodore Rooseveltstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 8,
@@ -2535,7 +2535,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 7,
+				"Total Balayage": 6,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2554,10 +2554,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Victor Hugo",
 				"Straat": "Victor Hugostraat",
-				"Total Interventions": 28,
+				"Total Interventions": 38,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2576,10 +2576,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Rue Victor Lefèvre",
 				"Straat": "Victor Lefèvrestraat",
-				"Total Interventions": 2,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2601,7 +2601,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 9.5,
+				"Total Balayage": 12.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2623,7 +2623,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2667,7 +2667,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 10,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2686,10 +2686,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Radium 3",
 				"Rue": "Square Vergote",
 				"Straat": "Vergotesquare",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2708,8 +2708,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach",
 				"Rue": "Boulevard Lambermont",
 				"Straat": "Lambermontlaan",
-				"Total Interventions": 7,
-				"Total Taxe": 0,
+				"Total Interventions": 6,
+				"Total Taxe": 2,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
 				"Total Dechetterie Mobile": 0
@@ -2730,10 +2730,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Albert Giraud",
 				"Straat": "Albert Giraudlaan",
-				"Total Interventions": 19,
+				"Total Interventions": 27,
 				"Total Taxe": 0,
-				"Total Mediation": 2,
-				"Total Balayage": 18,
+				"Total Mediation": 0,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2754,8 +2754,8 @@ var json_SPEVBilan2025 =  {
 				"Straat": "Kolonel Picquartlaan",
 				"Total Interventions": 10,
 				"Total Taxe": 0,
-				"Total Mediation": 2,
-				"Total Balayage": 15,
+				"Total Mediation": 0,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2774,10 +2774,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Emile Verhaeren",
 				"Straat": "Emile Verhaerenlaan",
-				"Total Interventions": 12,
-				"Total Taxe": 1,
+				"Total Interventions": 8,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 15.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2796,10 +2796,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Emile Zola",
 				"Straat": "Emile Zolalaan",
-				"Total Interventions": 22,
-				"Total Taxe": 1,
-				"Total Mediation": 5,
-				"Total Balayage": 19,
+				"Total Interventions": 8,
+				"Total Taxe": 0,
+				"Total Mediation": 0,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2818,10 +2818,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Georges Eekhoud",
 				"Straat": "Georges Eekhoudlaan",
-				"Total Interventions": 2,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11.5,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2840,10 +2840,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Georges Rodenbach",
 				"Straat": "Georges Rodenbachlaan",
-				"Total Interventions": 8,
-				"Total Taxe": 1,
-				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Interventions": 3,
+				"Total Taxe": 0,
+				"Total Mediation": 2,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2862,10 +2862,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Huart Hamoir",
 				"Straat": "Huart Hamoirstraat",
-				"Total Interventions": 16,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
-				"Total Mediation": 1,
-				"Total Balayage": 8,
+				"Total Mediation": 0,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2884,10 +2884,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Jean Jaurès",
 				"Straat": "Jean Jaurèsstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2906,10 +2906,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Maurice Maeterlinck",
 				"Straat": "Maurice Maeterlincklaan",
-				"Total Interventions": 5,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2928,10 +2928,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Monplaisir",
 				"Straat": "Monplaisirlaan",
-				"Total Interventions": 23,
-				"Total Taxe": 1,
+				"Total Interventions": 33,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2950,10 +2950,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Sleeckx",
 				"Straat": "Sleeckxlaan",
-				"Total Interventions": 8,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 15.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2972,10 +2972,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Avenue Zénobe Gramme",
 				"Straat": "Zénobe Grammelaan",
-				"Total Interventions": 13,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -2994,10 +2994,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Place Princesse Elisabeth",
 				"Straat": "Prinses Elisabethplein",
-				"Total Interventions": 3,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3016,10 +3016,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Anatole France",
 				"Straat": "Anatole Francestraat",
-				"Total Interventions": 13,
-				"Total Taxe": 1,
+				"Total Interventions": 10,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3038,10 +3038,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Auguste Snieders",
 				"Straat": "Auguste Sniedersstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3060,10 +3060,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Capronnier",
 				"Straat": "Capronnierstraat",
-				"Total Interventions": 6,
-				"Total Taxe": 7,
-				"Total Mediation": 2,
-				"Total Balayage": 21.5,
+				"Total Interventions": 1,
+				"Total Taxe": 0,
+				"Total Mediation": 0,
+				"Total Balayage": 16.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3082,10 +3082,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Charles Meert",
 				"Straat": "Charles Meertstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Mediation": 1,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3104,10 +3104,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Chaumontel",
 				"Straat": "Chaumontelstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3126,10 +3126,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue d'Anethan",
 				"Straat": "d'Anethanstraat",
-				"Total Interventions": 11,
+				"Total Interventions": 20,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3148,7 +3148,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue de la Bruyère",
 				"Straat": "Heidestraat",
-				"Total Interventions": 3,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 16,
@@ -3170,10 +3170,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue du Tilleul",
 				"Straat": "Lindestraat",
-				"Total Interventions": 15,
-				"Total Taxe": 1,
+				"Total Interventions": 18,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3192,10 +3192,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Fernand Séverin",
 				"Straat": "Fernand Séverinstraat",
-				"Total Interventions": 17,
+				"Total Interventions": 25,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Mediation": 1,
+				"Total Balayage": 15.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3214,10 +3214,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Fraikin",
 				"Straat": "Fraikinstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 19,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3236,10 +3236,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue François-Joseph Navez",
 				"Straat": "François-Joseph Navezstraat",
-				"Total Interventions": 32,
-				"Total Taxe": 1,
-				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Interventions": 35,
+				"Total Taxe": 0,
+				"Total Mediation": 1,
+				"Total Balayage": 17.5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3258,10 +3258,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Georges Garnir",
 				"Straat": "Georges Garnirstraat",
-				"Total Interventions": 11,
-				"Total Taxe": 1,
+				"Total Interventions": 10,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3280,10 +3280,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Grégoire Leroy",
 				"Straat": "Grégoire Leroystraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12.5,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3302,7 +3302,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Gustave Huberti",
 				"Straat": "Gustave Hubertistraat",
-				"Total Interventions": 6,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 15,
@@ -3324,10 +3324,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Iwan Gilkin",
 				"Straat": "Iwan Gilkinstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 14.5,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -3346,10 +3346,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Joseph Van Camp",
 				"Straat": "Joseph van Campstraat",
-				"Total Interventions": 15,
+				"Total Interventions": 18,
 				"Total Taxe": 0,
-				"Total Mediation": 2,
-				"Total Balayage": 19,
+				"Total Mediation": 0,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3368,10 +3368,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Maurice des Ombiaux",
 				"Straat": "Maurice des Ombiauxstraat",
-				"Total Interventions": 6,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3390,10 +3390,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Max Roos",
 				"Straat": "Max Roosstraat",
-				"Total Interventions": 17,
+				"Total Interventions": 18,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3412,10 +3412,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Nicolas Defrêcheux",
 				"Straat": "Nicolas Defrêcheuxstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 19,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3434,10 +3434,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Portaels",
 				"Straat": "Portaelsstraat",
-				"Total Interventions": 23,
+				"Total Interventions": 29,
 				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3459,7 +3459,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3478,10 +3478,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Van Droogenbroeck",
 				"Straat": "Van Droogenbroeckstraat",
-				"Total Interventions": 6,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3500,10 +3500,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Van Oost",
 				"Straat": "van Ooststraat",
-				"Total Interventions": 19,
+				"Total Interventions": 24,
 				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3522,10 +3522,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Rue Walckiers",
 				"Straat": "Walckiersstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3544,10 +3544,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 1",
 				"Rue": "Square François Riga",
 				"Straat": "François Rigasquare",
-				"Total Interventions": 8,
-				"Total Taxe": 0,
+				"Total Interventions": 4,
+				"Total Taxe": 1,
 				"Total Mediation": 1,
-				"Total Balayage": 16,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -3569,7 +3569,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3588,10 +3588,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Avenue Eugène Demolder",
 				"Straat": "Eugène Demolderlaan",
-				"Total Interventions": 9,
-				"Total Taxe": 1,
+				"Total Interventions": 4,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3610,10 +3610,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Avenue Princesse Elisabeth",
 				"Straat": "Prinses Elisabethlaan",
-				"Total Interventions": 28,
+				"Total Interventions": 26,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3632,10 +3632,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Chaussée de Helmet",
 				"Straat": "Helmetsesteenweg",
-				"Total Interventions": 30,
-				"Total Taxe": 0,
+				"Total Interventions": 48,
+				"Total Taxe": 2,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3654,10 +3654,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Place de Helmet",
 				"Straat": "Helmetplein",
-				"Total Interventions": 4,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3676,10 +3676,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Place Eugène Verboekhoven",
 				"Straat": "Eugène Verboekhovenplein",
-				"Total Interventions": 10,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3698,10 +3698,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Achille Detienne",
 				"Straat": "Achille Detiennestraat",
-				"Total Interventions": 7,
+				"Total Interventions": 10,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3720,10 +3720,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Charles Van Lerberghe",
 				"Straat": "Charles van Lerberghestraat",
-				"Total Interventions": 0,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3743,9 +3743,9 @@ var json_SPEVBilan2025 =  {
 				"Rue": "Rue de l'Agriculture",
 				"Straat": "Landbouwstraat",
 				"Total Interventions": 12,
-				"Total Taxe": 0,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 17,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3764,10 +3764,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Docteur Elie Lambotte",
 				"Straat": "Dokter Elie Lambottestraat",
-				"Total Interventions": 13,
+				"Total Interventions": 15,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3786,10 +3786,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue du Corbeau",
 				"Straat": "Raafstraat",
-				"Total Interventions": 12,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3808,10 +3808,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue du Dahlia",
 				"Straat": "Dahliastraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3830,10 +3830,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue du Foyer Schaerbeekois",
 				"Straat": "Schaarbeekse Haardstraat",
-				"Total Interventions": 13,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3852,10 +3852,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Georges Raeymaekers",
 				"Straat": "Georges Raeymaekersstraat",
-				"Total Interventions": 21,
+				"Total Interventions": 11,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -3874,7 +3874,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Guido Gezelle",
 				"Straat": "Guido Gezellestraat",
-				"Total Interventions": 13,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 15,
@@ -3896,7 +3896,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Henri Jacobs",
 				"Straat": "Henri Jacobsstraat",
-				"Total Interventions": 8,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 18,
@@ -3918,10 +3918,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Jan Blockx",
 				"Straat": "Jan Blockxstraat",
-				"Total Interventions": 5,
+				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3940,10 +3940,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Léopold Courouble",
 				"Straat": "Léopold Couroublestraat",
-				"Total Interventions": 11,
-				"Total Taxe": 1,
+				"Total Interventions": 6,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -3984,10 +3984,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Nestor De Tière",
 				"Straat": "Nestor de Tièrestraat",
-				"Total Interventions": 11,
+				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 13,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4006,10 +4006,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Richard Vandevelde",
 				"Straat": "Richard Vandeveldestraat",
-				"Total Interventions": 16,
+				"Total Interventions": 13,
 				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4028,9 +4028,9 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 2",
 				"Rue": "Rue Stijn Streuvels",
 				"Straat": "Stijn Streuvelsstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
+				"Total Mediation": 1,
 				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
@@ -4051,9 +4051,9 @@ var json_SPEVBilan2025 =  {
 				"Rue": "Rue Waelhem",
 				"Straat": "Waelhemstraat",
 				"Total Interventions": 21,
-				"Total Taxe": 0,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4097,7 +4097,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4119,7 +4119,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 14,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4138,10 +4138,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Allée des Freesias",
 				"Straat": "Freesiadreef",
-				"Total Interventions": 8,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4204,10 +4204,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Charles Gilisquet",
 				"Straat": "Charles Gilisquetlaan",
-				"Total Interventions": 8,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 12,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4226,10 +4226,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue des Capucines",
 				"Straat": "Kapucijnbloemenlaan",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 5,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4248,10 +4248,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue des Glycines",
 				"Straat": "Blauweregenlaan",
-				"Total Interventions": 4,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4273,7 +4273,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 4,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4292,10 +4292,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue des Jacinthes",
 				"Straat": "Hyacintenlaan",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4317,7 +4317,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4336,10 +4336,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue du Suffrage Universel",
 				"Straat": "Algemeen Stemrechtlaan",
-				"Total Interventions": 6,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4358,10 +4358,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Ernest Renan",
 				"Straat": "Ernest Renanlaan",
-				"Total Interventions": 4,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4380,10 +4380,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Gustave Latinis",
 				"Straat": "Gustave Latinislaan",
-				"Total Interventions": 30,
+				"Total Interventions": 18,
 				"Total Taxe": 1,
-				"Total Mediation": 1,
-				"Total Balayage": 12,
+				"Total Mediation": 0,
+				"Total Balayage": 8,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4402,10 +4402,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Louis Bertrand",
 				"Straat": "Louis Bertrandlaan",
-				"Total Interventions": 25,
+				"Total Interventions": 24,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4424,7 +4424,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Raymond Foucart",
 				"Straat": "Raymond Foucartlaan",
-				"Total Interventions": 4,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 8,
@@ -4446,10 +4446,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Avenue Voltaire",
 				"Straat": "Voltairelaan",
-				"Total Interventions": 89,
+				"Total Interventions": 57,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4468,8 +4468,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Chaussée de Haecht",
 				"Straat": "Haachtsesteenweg",
-				"Total Interventions": 15,
-				"Total Taxe": 1,
+				"Total Interventions": 12,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
 				"Total Dechetterie Mobile": 0
@@ -4493,7 +4493,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4513,9 +4513,9 @@ var json_SPEVBilan2025 =  {
 				"Rue": "Clos du Chemin Creux",
 				"Straat": "Holleweggaarde",
 				"Total Interventions": 2,
-				"Total Taxe": 1,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4578,10 +4578,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Place Terdelt",
 				"Straat": "Terdeltplein",
-				"Total Interventions": 5,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4600,10 +4600,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Adolphe Marbotin",
 				"Straat": "Adolphe Marbotinstraat",
-				"Total Interventions": 13,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 2
 			}
 		},
@@ -4622,10 +4622,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Alexandre De Craene",
 				"Straat": "Alexandre de Craenestraat",
-				"Total Interventions": 4,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4644,10 +4644,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Armand de Roo",
 				"Straat": "Armand de Roostraat",
-				"Total Interventions": 2,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4666,10 +4666,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Arthur Roland",
 				"Straat": "Arthur Rolandstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 6,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4688,10 +4688,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Caporal Claes",
 				"Straat": "Korporaal Claesstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4710,10 +4710,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Charles Vanderstappen",
 				"Straat": "Charles Vanderstappenstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4732,10 +4732,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue des Mimosas",
 				"Straat": "Mimosasstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4757,7 +4757,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 11,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4776,10 +4776,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Désiré Desmet",
 				"Straat": "Désiré Desmetstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4798,10 +4798,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Godefroid Guffens",
 				"Straat": "Godefroid Guffensstraat",
-				"Total Interventions": 9,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4820,10 +4820,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Guillaume Kennis",
 				"Straat": "Guillaume Kennisstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4842,10 +4842,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Herman Richir",
 				"Straat": "Herman Richirstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4864,10 +4864,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Hubert Krains",
 				"Straat": "Hubert Krainsstraat",
-				"Total Interventions": 0,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4886,10 +4886,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Jacques Rayé",
 				"Straat": "Jacques Rayéstraat",
-				"Total Interventions": 14,
-				"Total Taxe": 1,
-				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Interventions": 11,
+				"Total Taxe": 0,
+				"Total Mediation": 2,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4911,7 +4911,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4930,10 +4930,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Joseph Wauters",
 				"Straat": "Joseph Wautersstraat",
-				"Total Interventions": 13,
-				"Total Taxe": 1,
+				"Total Interventions": 8,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4952,10 +4952,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Jules Destrée",
 				"Straat": "Jules Destréestraat",
-				"Total Interventions": 7,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -4974,7 +4974,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Julius Hoste",
 				"Straat": "julius Hostestraat",
-				"Total Interventions": 1,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 8,
@@ -4996,10 +4996,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Pierre Theunis",
 				"Straat": "Pierre Theunisstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5021,7 +5021,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 9,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5040,10 +5040,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Rodenbach 3",
 				"Rue": "Rue Van Ysendyck",
 				"Straat": "van Ysendyckstraat",
-				"Total Interventions": 4,
+				"Total Interventions": 13,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 15,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -5065,7 +5065,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 8,
+				"Total Balayage": 7,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5087,7 +5087,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5128,7 +5128,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Avenue de l'Héliport",
 				"Straat": "Helihavenlaan",
-				"Total Interventions": 0,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -5150,10 +5150,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Avenue Philippe Thomas",
 				"Straat": "Philippe Thomaslaan",
-				"Total Interventions": 55,
+				"Total Interventions": 46,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5216,10 +5216,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Petite rue des Secours",
 				"Straat": "Korte Hulpstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5260,10 +5260,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Place Gaucheret",
 				"Straat": "Gaucheretplein",
-				"Total Interventions": 43,
-				"Total Taxe": 4,
+				"Total Interventions": 21,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5282,7 +5282,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Place Liedts",
 				"Straat": "Liedtsplein",
-				"Total Interventions": 2,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -5304,10 +5304,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Place Masui",
 				"Straat": "Masuiplein",
-				"Total Interventions": 4,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5348,10 +5348,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Place Stephenson",
 				"Straat": "Stephensonplein",
-				"Total Interventions": 20,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5414,7 +5414,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue de Brabant",
 				"Straat": "Brabantstraat",
-				"Total Interventions": 6,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -5458,10 +5458,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue de la Chaumière",
 				"Straat": "Hutstraat",
-				"Total Interventions": 11,
-				"Total Taxe": 0,
+				"Total Interventions": 15,
+				"Total Taxe": 2,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5480,10 +5480,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue de la Fraternité",
 				"Straat": "Broederschapstraat",
-				"Total Interventions": 20,
+				"Total Interventions": 15,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5502,10 +5502,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue de Moerkerke",
 				"Straat": "de Moerkerkestraat",
-				"Total Interventions": 14,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5546,10 +5546,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue de Quatrecht",
 				"Straat": "Kwatrechtstraat",
-				"Total Interventions": 26,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5568,7 +5568,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue des Palais",
 				"Straat": "Paleizenstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -5590,10 +5590,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Destouvelles",
 				"Straat": "Destouvellesstraat",
-				"Total Interventions": 69,
+				"Total Interventions": 61,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5634,10 +5634,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue du Pavillon",
 				"Straat": "Paviljoenstraat",
-				"Total Interventions": 53,
+				"Total Interventions": 54,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5656,7 +5656,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue du Progrès",
 				"Straat": "Vooruitgangstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -5678,10 +5678,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Gallait",
 				"Straat": "Gallaitstraat",
-				"Total Interventions": 64,
-				"Total Taxe": 1,
+				"Total Interventions": 67,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5700,10 +5700,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Gaucheret",
 				"Straat": "Gaucheretstraat",
-				"Total Interventions": 142,
+				"Total Interventions": 91,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -5722,10 +5722,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Gendebien",
 				"Straat": "Gendebienstraat",
-				"Total Interventions": 26,
+				"Total Interventions": 23,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5744,10 +5744,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue James Watt",
 				"Straat": "James Wattstraat",
-				"Total Interventions": 2,
-				"Total Taxe": 0,
+				"Total Interventions": 8,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5766,10 +5766,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Jolly",
 				"Straat": "Jollystraat",
-				"Total Interventions": 15,
+				"Total Interventions": 19,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5791,7 +5791,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5832,10 +5832,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Masui",
 				"Straat": "Masuistraat",
-				"Total Interventions": 69,
+				"Total Interventions": 44,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 12,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5854,10 +5854,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Renkin",
 				"Straat": "Renkinstraat",
-				"Total Interventions": 18,
+				"Total Interventions": 12,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 19,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -5876,10 +5876,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Stephenson",
 				"Straat": "Stephensonstraat",
-				"Total Interventions": 20,
+				"Total Interventions": 25,
 				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Mediation": 1,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5901,7 +5901,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5920,10 +5920,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Van Schoor",
 				"Straat": "Van Schoorstraat",
-				"Total Interventions": 52,
+				"Total Interventions": 26,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 16,
+				"Total Balayage": 11,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5942,10 +5942,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Vanderlinden",
 				"Straat": "Vanderlindenstraat",
-				"Total Interventions": 76,
+				"Total Interventions": 57,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 10,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5964,10 +5964,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Vandermeersch",
 				"Straat": "Vandermeerschstraat",
-				"Total Interventions": 24,
+				"Total Interventions": 30,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -5986,10 +5986,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Verte",
 				"Straat": "Groenstraat",
-				"Total Interventions": 122,
+				"Total Interventions": 107,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -6008,10 +6008,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 1",
 				"Rue": "Rue Vondel",
 				"Straat": "Vondelstraat",
-				"Total Interventions": 19,
+				"Total Interventions": 20,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6030,10 +6030,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Avenue Maréchal Foch",
 				"Straat": "Maarschalk Fochlaan",
-				"Total Interventions": 28,
-				"Total Taxe": 0,
+				"Total Interventions": 32,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6052,8 +6052,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Place Colignon",
 				"Straat": "Colignonplein",
-				"Total Interventions": 27,
-				"Total Taxe": 0,
+				"Total Interventions": 21,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
 				"Total Dechetterie Mobile": 0
@@ -6074,7 +6074,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Place de la Reine",
 				"Straat": "Koninginneplein",
-				"Total Interventions": 4,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -6096,10 +6096,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Place Lehon",
 				"Straat": "Lehonplein",
-				"Total Interventions": 11,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 2
 			}
 		},
@@ -6118,10 +6118,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Brichaut",
 				"Straat": "Brichautstraat",
-				"Total Interventions": 35,
-				"Total Taxe": 0,
+				"Total Interventions": 19,
+				"Total Taxe": 2,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6143,7 +6143,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 5,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6162,10 +6162,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de la Constitution",
 				"Straat": "Grondwetstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 9,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6184,10 +6184,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de la Marne",
 				"Straat": "Marnestraat",
-				"Total Interventions": 20,
+				"Total Interventions": 17,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6206,10 +6206,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de la Poste",
 				"Straat": "Poststraat",
-				"Total Interventions": 105,
-				"Total Taxe": 2,
+				"Total Interventions": 64,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6228,7 +6228,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de la Ruche",
 				"Straat": "Bijenkorfstraat",
-				"Total Interventions": 2,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 14,
@@ -6250,7 +6250,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de l'Est",
 				"Straat": "Ooststraat",
-				"Total Interventions": 5,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 14,
@@ -6272,10 +6272,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de Locht",
 				"Straat": "de Lochtstraat",
-				"Total Interventions": 40,
+				"Total Interventions": 33,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6294,10 +6294,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue de Robiano",
 				"Straat": "de Robianostraat",
-				"Total Interventions": 44,
+				"Total Interventions": 43,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6316,10 +6316,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue des Ailes",
 				"Straat": "Vleugelsstraat",
-				"Total Interventions": 32,
-				"Total Taxe": 0,
-				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Interventions": 27,
+				"Total Taxe": 1,
+				"Total Mediation": 1,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6338,10 +6338,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue des Plantes",
 				"Straat": "Plantenstraat",
-				"Total Interventions": 28,
+				"Total Interventions": 27,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6360,10 +6360,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Dupont",
 				"Straat": "Dupontstraat",
-				"Total Interventions": 71,
+				"Total Interventions": 44,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6382,10 +6382,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Emmanuel Hiel",
 				"Straat": "Emmanuel Hielstraat",
-				"Total Interventions": 9,
-				"Total Taxe": 0,
+				"Total Interventions": 4,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6404,10 +6404,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Floris",
 				"Straat": "Florisstraat",
-				"Total Interventions": 10,
-				"Total Taxe": 1,
+				"Total Interventions": 15,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6429,7 +6429,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6448,10 +6448,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Général Eenens",
 				"Straat": "Generaal Eenensstraat",
-				"Total Interventions": 43,
+				"Total Interventions": 31,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 19,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6470,10 +6470,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Goossens",
 				"Straat": "Goossensstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6492,10 +6492,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Hancart",
 				"Straat": "Hancartstraat",
-				"Total Interventions": 3,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 14,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6514,10 +6514,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Lefrancq",
 				"Straat": "Lefrancqstraat",
-				"Total Interventions": 34,
-				"Total Taxe": 0,
+				"Total Interventions": 31,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6539,7 +6539,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6558,10 +6558,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Metsys",
 				"Straat": "Metsysstraat",
-				"Total Interventions": 36,
+				"Total Interventions": 20,
 				"Total Taxe": 0,
-				"Total Mediation": 1,
-				"Total Balayage": 20,
+				"Total Mediation": 0,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6580,10 +6580,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Quinaux",
 				"Straat": "Quinauxstraat",
-				"Total Interventions": 14,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6602,10 +6602,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Rogier",
 				"Straat": "Rogierstraat",
-				"Total Interventions": 65,
+				"Total Interventions": 46,
 				"Total Taxe": 0,
-				"Total Mediation": 1,
-				"Total Balayage": 23,
+				"Total Mediation": 0,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6624,10 +6624,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Royale-Sainte-Marie",
 				"Straat": "Koninklijke Sinte-Mariastraat",
-				"Total Interventions": 83,
-				"Total Taxe": 3,
+				"Total Interventions": 65,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6646,10 +6646,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Rubens",
 				"Straat": "Rubensstraat",
-				"Total Interventions": 41,
+				"Total Interventions": 27,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6668,10 +6668,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Vandeweyer",
 				"Straat": "Vandeweyerstraat",
-				"Total Interventions": 63,
+				"Total Interventions": 50,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 20,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6693,7 +6693,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6712,10 +6712,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Verwée",
 				"Straat": "Verwéestraat",
-				"Total Interventions": 1,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 24,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6734,10 +6734,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 2",
 				"Rue": "Rue Vifquin",
 				"Straat": "Vifquinstraat",
-				"Total Interventions": 32,
+				"Total Interventions": 38,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6756,7 +6756,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Avenue de la Reine",
 				"Straat": "Koninginnelaan",
-				"Total Interventions": 8,
+				"Total Interventions": 3,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -6778,10 +6778,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Avenue Rogier",
 				"Straat": "Rogierlaan",
-				"Total Interventions": 191,
-				"Total Taxe": 9,
+				"Total Interventions": 144,
+				"Total Taxe": 4,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6803,7 +6803,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6822,10 +6822,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Place de Houffalize",
 				"Straat": "Houffalizeplein",
-				"Total Interventions": 7,
+				"Total Interventions": 4,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6869,7 +6869,7 @@ var json_SPEVBilan2025 =  {
 				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 18,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6888,10 +6888,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Creuse",
 				"Straat": "Hollestraat",
-				"Total Interventions": 10,
+				"Total Interventions": 14,
 				"Total Taxe": 0,
-				"Total Mediation": 2,
-				"Total Balayage": 19,
+				"Total Mediation": 0,
+				"Total Balayage": 15,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6910,10 +6910,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue de Beughem",
 				"Straat": "de Beughemstraat",
-				"Total Interventions": 6,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6932,10 +6932,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue de Jérusalem",
 				"Straat": "Jerusalemstraat",
-				"Total Interventions": 7,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6954,7 +6954,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Edouard Fiers",
 				"Straat": "Edouard Fiersstraat",
-				"Total Interventions": 10,
+				"Total Interventions": 17,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 13,
@@ -6976,10 +6976,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Ernest Discailles",
 				"Straat": "Ernest Discaillesstraat",
-				"Total Interventions": 7,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -6998,10 +6998,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Ernest Laude",
 				"Straat": "Ernest Laudestraat",
-				"Total Interventions": 18,
+				"Total Interventions": 8,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7020,10 +7020,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Geefs",
 				"Straat": "Geefsstraat",
-				"Total Interventions": 13,
-				"Total Taxe": 0,
+				"Total Interventions": 6,
+				"Total Taxe": 1,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7042,10 +7042,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Henri Bergé",
 				"Straat": "Henri Bergéstraat",
-				"Total Interventions": 21,
+				"Total Interventions": 32,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7064,10 +7064,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Herman",
 				"Straat": "Hermanstraat",
-				"Total Interventions": 9,
+				"Total Interventions": 10,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7086,10 +7086,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Jenatzy",
 				"Straat": "Jenatzystraat",
-				"Total Interventions": 1,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7108,10 +7108,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Josaphat",
 				"Straat": "Josafatstraat",
-				"Total Interventions": 129,
+				"Total Interventions": 116,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7130,10 +7130,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Joseph Brand",
 				"Straat": "Joseph Brandstraat",
-				"Total Interventions": 31,
+				"Total Interventions": 21,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 1
 			}
 		},
@@ -7152,8 +7152,8 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Kessels",
 				"Straat": "Kesselsstraat",
-				"Total Interventions": 36,
-				"Total Taxe": 1,
+				"Total Interventions": 24,
+				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 13,
 				"Total Dechetterie Mobile": 0
@@ -7174,10 +7174,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue l'Olivier",
 				"Straat": "L'Olivierstraat",
-				"Total Interventions": 35,
+				"Total Interventions": 17,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7196,10 +7196,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Massaux",
 				"Straat": "Massauxstraat",
-				"Total Interventions": 9,
+				"Total Interventions": 6,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7218,10 +7218,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Philomène",
 				"Straat": "Philomènestraat",
-				"Total Interventions": 67,
+				"Total Interventions": 35,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7240,10 +7240,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Potagère",
 				"Straat": "Warmoesstraat",
-				"Total Interventions": 5,
+				"Total Interventions": 2,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7262,7 +7262,7 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Royale",
 				"Straat": "Koningsstraat",
-				"Total Interventions": 1,
+				"Total Interventions": 0,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
 				"Total Balayage": 0,
@@ -7284,10 +7284,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Seutin",
 				"Straat": "Seutinstraat",
-				"Total Interventions": 18,
+				"Total Interventions": 15,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 22,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7306,10 +7306,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Teniers",
 				"Straat": "Teniersstraat",
-				"Total Interventions": 9,
+				"Total Interventions": 1,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7328,10 +7328,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Van Dyck",
 				"Straat": "Van Dyckstraat",
-				"Total Interventions": 43,
+				"Total Interventions": 26,
 				"Total Taxe": 0,
-				"Total Mediation": 2,
-				"Total Balayage": 21,
+				"Total Mediation": 0,
+				"Total Balayage": 17,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7350,10 +7350,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Van Hoorde",
 				"Straat": "van Hoordestraat",
-				"Total Interventions": 8,
+				"Total Interventions": 16,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 23,
+				"Total Balayage": 18,
 				"Total Dechetterie Mobile": 0
 			}
 		},
@@ -7372,10 +7372,10 @@ var json_SPEVBilan2025 =  {
 				"Secteur": "Vifquin 3",
 				"Rue": "Rue Vogler",
 				"Straat": "Voglerstraat",
-				"Total Interventions": 18,
+				"Total Interventions": 7,
 				"Total Taxe": 0,
 				"Total Mediation": 0,
-				"Total Balayage": 21,
+				"Total Balayage": 16,
 				"Total Dechetterie Mobile": 0
 			}
 		}
