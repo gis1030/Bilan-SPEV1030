@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <title>SPEV Schaerbeek</title>
+    <link rel="shortcut icon" href="css/images/logo1030GeoData.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/L.Control.Layers.Tree.css">
+    <link rel="stylesheet" href="css/qgis2web.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="css/leaflet-search.css">
+    <link rel="stylesheet" href="css/leaflet.photon.css">
+    <style>
+        html,
+        body,
+        #map {
+            flex-grow: 1;
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+    <title>Actions de propreté publique du service communal de Schaerbeek </title>
+</head>
+
+<body>
+    <div id="Internal_Body">
+        <div id="Region00">
+            <div id="Region04">
+                <div id="map"></div>
+            </div>
+        </div>
+
+        <div id="Region01">
+            <div class="container">
+                <div class="sidebar">
+                    <h1>
+                        <!--<div class="logo"></div-->
+                        <span>Actions de propreté publique du service communal de Schaerbeek</span>
+                    </h1>
+
+                    <div class="data-infos">
+                        <p>
+                            Cette cartographie reprend les actions en termes de propreté publique
+                            réalisées par le service communal Schaerbeek Propreté et Espaces
+                            verts. Elle présente pour chaque rue les actions de traitement
+                            (nettoiement, enlèvement des dépôts clandestins, balayage), de
+                            sensibilisation et de répression.
+                        </p>
+                        <p>
+                            Pour chaque rue, sont présentées les actions de traitement (nettoyage,
+                            enlèvement des déchets sauvages, balayage), de sensibilisation et de répression.
+                        </p>
+                        <p>
+                            Afin de préserver la confidentialité des citoyens, les informations sont
+                            données par rue, sans précision du numéro.
+                            Pour plus d’information n’hésitez pas à contacter notre centrale
+                            d’appel au 0800 939 88.
+                        </p>
+                        <p></p>
+                        <p>
+                            1. Intervention : Action de propreté réalisée par nos équipes : ramassage d’un encombrant,
+                            ramassage d’un sac mal sorti, nettoyage de la voie publique,
+                            vidange d’un avaloir, enquête de la cellule verbalisation. Ces actions sont réalisées en
+                            plus
+                            des missions habituelles de balayage, et d’entretien de l’espace public.
+                        </p>
+                        <p>
+                            2. Moyenne de balayage : Moyenne mensuelle du nombre de balayage de la rue.
+                        </p>
+                        <p>
+                            3. Taxe : Action de l’équipe de recherche et verbalisation qui a donné lieu à un PV (le
+                            déposant
+                            a pu être identifié). Environ 10% des actions de la cellule répression amènent à une
+                            identification.
+                        </p>
+                        <p>
+                            4. Médiation : action des médiateurs de propreté pour sensibiliser ou informer les citoyens
+                            sur
+                            une problématique de propreté publique.
+                        </p>
+                        <p>
+                        <div class="logo3"></div>
+                        </p>
+                    </div>
+                </div>
+
+                <!--
+				<div class="credits">
+				  <p>
+					Commune de Schaerbeek©<a href="https://www.1030.be/">Commune de Schaerbeek</a>
+				  </p>
+				</div>
+				-->
+            </div>
+        </div>
+
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/L.Control.Layers.Tree.min.js"></script>
+        <script src="js/leaflet-svg-shape-markers.min.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="js/leaflet.photon.js"></script>
+        <script src="js/leaflet-search.js"></script>
+        <script src="js/easy-button.js"></script>
+
+        <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
+        <script src="data/SchaerbekBorders/LimitesSchaerbeek.js"></script>
+
+        <script src="data/SchaerbekBorders/SPEV/Rodenbach.js"></script>
+        <script src="data/SchaerbekBorders/SPEV/Radium.js"></script>
+        <script src="data/SchaerbekBorders/SPEV/Vifquin.js"></script>
+        <script src="data/SchaerbekBorders/SPEV/LimitesSecteursSPEV.js"></script>
+        <script src="data/SchaerbekBorders/SPEV/StreetAxesSPEV.js"></script>
+
+        <script src="data/Bilan2025.js"></script>
+
+        <!-- bibliothèque interne JS -->
+    <script src="js/optimization.js"></script>
+    <script src="js/app_FR.js"></script>
+
+    </div>
+</body>
+
+</html>
