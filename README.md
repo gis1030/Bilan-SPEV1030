@@ -1,5 +1,5 @@
-# Review SPEV-1030
-Public cleanliness actions carried out by "Service Communal Schaerbeek Propreté et Espaces Verts" (SPEV).  
+# Monthly monitoring of public cleaning actions in the municipality of Schaerbeek.
+Public cleanliness actions carried out by SPEV (Service Communal Schaerbeek Propreté et Espaces Verts).  
 It presents the treatment actions (cleaning, removal of illegal dumping, sweeping), awareness-raising, and enforcement actions for each street.
 
 ## Link
