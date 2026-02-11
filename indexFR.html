@@ -131,8 +131,6 @@
         <script src="js/leaflet.photon.js"></script>
         <script src="js/leaflet-search.js"></script>
         <script src="js/easy-button.js"></script>
-        <script src="js/datalists_script.js"></script>
-
 
         <script src="data/SchaerbekBorders/LimitesSchaerbeekQuartiers.js"></script>
         <script src="data/SchaerbekBorders/LimitesSchaerbeek.js"></script>
@@ -144,6 +142,7 @@
         <script src="data/SchaerbekBorders/SPEV/StreetAxesSPEV.js"></script>
 
         <script src="data/Bilan2025.js"></script>
+        <script src="js/monthData.js"></script>
 
         <!-- bibliothèque interne JS -->
         <script>
@@ -209,7 +208,7 @@
                 return this._div;
             };
             title.update = function (month) {
-                var displayedMonth = month ? month : 'Novembre 2025';
+                var displayedMonth = month ? month : 'Janvier 2026';
                 this._div.innerHTML = '<h2>' + displayedMonth + '. Actions de propreté publique <br>du service communal de Schaerbeek.</h2>';
             };
             title.addTo(map);
@@ -2008,8 +2007,6 @@
                 window.location.href = url;
             }).setPosition('bottomleft').addTo(map); // topleft, topright, bottomleft, bottomright
         </script>
-
-        <script src="js/monthData.js"></script>
     </div>
 </body>
 
