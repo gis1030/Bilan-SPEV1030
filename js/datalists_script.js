@@ -11,7 +11,8 @@ const yearMonth_FR = [
     "septembre 2025",
     "octobre 2025",
     "novembre 2025",
-    "décembre"
+    "décembre 2025",
+    "janvier 2026"
 ];
 
 // yearMonth_FR
@@ -27,7 +28,8 @@ const yearMonth_NL = [
     "september 2025",
     "oktober 2025",
     "november 2025",
-    "december 2025"
+    "december 2025",
+    "januari 2025"
 ];
 
 
