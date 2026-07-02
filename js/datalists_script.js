@@ -13,9 +13,11 @@ const yearMonth_FR = [
     "novembre 2025",
     "décembre 2025",
     "janvier 2026",
-	"février 2026",
-	"mars 2026",
-	"avril 2026"
+    "février 2026",
+    "mars 2026",
+    "avril 2026",
+    "mai 2026",
+    "juin 2026",
 ];
 
 // yearMonth_FR
@@ -33,9 +35,11 @@ const yearMonth_NL = [
     "november 2025",
     "december 2025",
     "januari 2026",
-	"februari 2026",
-	"maart 2026"
-	"april 2026"
+    "februari 2026",
+    "maart 2026",
+    "april 2026",
+    "mei 2026",
+    "juni 2026",
 ];
 
 
