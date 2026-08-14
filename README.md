@@ -8,7 +8,8 @@
 
 | Tool | Description | Link |
 |---|---|---|
-| 🗺️ **Interactive Map (FR)** | Cleaning actions by street — French | [indexFR.html](https://gis1030.github.io/Bilan-SPEV1030/) |
+| 🗺️ **Introduction (FR/NL)** | presentation | [index.html](https://gis1030.github.io/Bilan-SPEV1030/) |
+| 🗺️ **Interactive Map (FR)** | Cleaning actions by street — French | [indexFR.html](https://gis1030.github.io/Bilan-SPEV1030/indexFR.html) |
 | 🗺️ **Interactieve Kaart (NL)** | Reinigingsacties per straat — Nederlands | [indexNL.html](https://gis1030.github.io/Bilan-SPEV1030/indexNL.html) |
 
 ---
