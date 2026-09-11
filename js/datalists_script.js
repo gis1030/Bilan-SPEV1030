@@ -18,6 +18,7 @@ const yearMonth_FR = [
     "avril 2026",
     "mai 2026",
     "juin 2026",
+    "août 2026",
 ];
 
 // yearMonth_FR
@@ -40,6 +41,7 @@ const yearMonth_NL = [
     "april 2026",
     "mei 2026",
     "juni 2026",
+    "augustus 2026",
 ];
 
 
