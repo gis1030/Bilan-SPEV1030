@@ -25,6 +25,7 @@ const monthFilesFR = {
     "juin 2026": "Bilan202606.js",
 	"juillet 2026": "Bilan202607.js",
 	"août 2026": "Bilan202608.js",
+	"septembre 2026": "Bilan202609.js",
 };
 
 // Mapping of month names to filenames (Dutch)
@@ -49,6 +50,7 @@ const monthFilesNL = {
     "juni 2026": "Bilan202606.js",
     "juli 2026": "Bilan202607.js",
     "augustus 2026": "Bilan202608.js",
+    "september 2026": "Bilan202609.js",
 };
 
 /**
