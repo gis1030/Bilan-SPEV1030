@@ -1,6 +1,6 @@
 # 🧹 Public Cleanliness Monitoring — Schaerbeek SPEV 1030
 
-> Monthly monitoring of public cleaning actions carried out by the SPEV (Service Communal Schaerbeek Propreté et Espaces Verts) · Data as of May 2026
+> Monthly monitoring of public cleaning actions carried out by the SPEV (Service Communal Schaerbeek Propreté et Espaces Verts) · Data as of September 2026
 
 ---
 
