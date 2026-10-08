@@ -75,7 +75,7 @@ Bilan-SPEV1030/
 
 | Date | Description |
 |---|---|
-| August 2026 | Dataset updated — SPEV interventions 2025 |
+| Septembre 2026 | Dataset updated — SPEV interventions 2025 |
 | 2025 | Initial publication |
 
 ---
@@ -84,7 +84,7 @@ Bilan-SPEV1030/
 
 | Dataset | Source | Date |
 |---|---|---|
-| SPEV cleaning interventions | SPEV — Commune de Schaerbeek | July 2026 |
+| SPEV cleaning interventions | SPEV — Commune de Schaerbeek | Septembre 2026 |
 
 Data is extracted from the SPEV internal monitoring system and packaged as static GeoJSON files for client-side rendering. No server-side queries are performed at runtime.
 
