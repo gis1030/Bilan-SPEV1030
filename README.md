@@ -75,7 +75,7 @@ Bilan-SPEV1030/
 
 | Date | Description |
 |---|---|
-| Septembre 2026 | Dataset updated — SPEV interventions 2025 |
+| October 2026 | Dataset updated — SPEV interventions 2025 |
 | 2025 | Initial publication |
 
 ---
